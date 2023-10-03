@@ -24,7 +24,7 @@ baseurl: /omochi
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://tiebapic.baidu.com/forum/pic/item/b418eb8ba61ea8d3d750c343800a304e241f586d.jpg?tbpicau=2023-10-06-05_4394c94b2d5486beaa4a0463edb044f4
+avatar: 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
 
