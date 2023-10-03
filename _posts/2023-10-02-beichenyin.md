@@ -3,7 +3,6 @@ layout: post
 title: 资料
 date: 2023-10-02
 Author: Mocha
-categories: 
 tags: [北辰胤, 霹雳布袋戏]
 toc: true
 --- 
