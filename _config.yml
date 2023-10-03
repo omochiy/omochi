@@ -7,7 +7,7 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: 白米糕
+name: 米糕
 description: 来如流水兮逝如风
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
@@ -24,10 +24,10 @@ baseurl: /omochi
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://storage.googleapis.com/stateless-thedailyfandom-org/2022/05/c6d218a4-eeaao-rock-scaled.jpg
+avatar: https://lh3.googleusercontent.com/ci/AA1T9HJD4qq_NhXaPLYNmjB5M1ic15tmO1A4-cxorUC_opUGgTvMMMTCAOby82yG5OIGA60UffB-lzY=s1200
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://storage.googleapis.com/stateless-thedailyfandom-org/2022/05/c6d218a4-eeaao-rock-scaled.jpg
+favicon: https://lh3.googleusercontent.com/ci/AA1T9HJD4qq_NhXaPLYNmjB5M1ic15tmO1A4-cxorUC_opUGgTvMMMTCAOby82yG5OIGA60UffB-lzY=s1200
 
 
 # 菜单中的按钮
@@ -55,7 +55,7 @@ footer-links:
   email: #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github: #FromEndWorld/loffer #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
